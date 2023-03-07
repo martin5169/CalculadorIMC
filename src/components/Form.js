@@ -29,7 +29,7 @@ function Form() {
         value={height}
       />
       <Badge pill bg="secondary">
-        Peso : {height} kg
+        Peso : {weigth} kg
       </Badge>
 
       <input
